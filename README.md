@@ -5,7 +5,7 @@
 [![Website Badge](https://img.shields.io/badge/-ericjhkim.com-e34f26?style=flat-square&logo=HTML5&logoColor=white&link=https://ericjhkim.com/)](https://ericjhkim.com/)
 [![Gmail Badge](https://img.shields.io/badge/-ericjihkim@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ericjihkim@gmail.com)](mailto:ericjihkim@gmail.com)
 
-## Skills and expertise:
+## Domains:
 - Control systems
 - Trajectory planning
 - Artificial neural networks
