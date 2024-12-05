@@ -6,6 +6,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-ericjihkim@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ericjihkim@gmail.com)](mailto:ericjihkim@gmail.com)
 
 ## Domains:
+- Swarms and flocking
 - Control systems
 - Trajectory planning
 - Artificial neural networks
